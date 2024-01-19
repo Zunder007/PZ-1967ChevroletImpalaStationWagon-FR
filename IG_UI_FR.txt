@@ -1,0 +1,5 @@
+IG_UI_FR = {
+	IGUI_VehicleName67chevroletimpalaSW = "1967 Chevrolet Impala Station Wagon",
+	IGUI_VehicleName67chevroletimpalaSWRR = "1967 Chevrolet Impala Station Wagon",
+	IGUI_VehicleName67chevroletimpalaSWItems = "1967 Chevrolet Impala Station Wagon",
+}
